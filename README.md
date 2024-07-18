@@ -1,2 +1,2 @@
-# Camel-K-examples
-Several simple examples of xml routes
+# Camel projects examples in Java
+Several simple examples of routes
